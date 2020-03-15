@@ -79,12 +79,7 @@
 		033A5B16241E729300581D9E /* CleanSwift */ = {
 			isa = PBXGroup;
 			children = (
-				033A5B17241E729300581D9E /* AppDelegate.swift */,
-				033A5B19241E729300581D9E /* SceneDelegate.swift */,
-				033A5B1B241E729300581D9E /* ViewController.swift */,
-				033A5B1D241E729300581D9E /* Main.storyboard */,
-				033A5B20241E729500581D9E /* Assets.xcassets */,
-				033A5B22241E729500581D9E /* LaunchScreen.storyboard */,
+				033A5B39241E743000581D9E /* Support Files */,
 				033A5B25241E729500581D9E /* Info.plist */,
 			);
 			path = CleanSwift;
@@ -97,6 +92,19 @@
 				033A5B30241E729500581D9E /* Info.plist */,
 			);
 			path = CleanSwiftTests;
+			sourceTree = "<group>";
+		};
+		033A5B39241E743000581D9E /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				033A5B17241E729300581D9E /* AppDelegate.swift */,
+				033A5B19241E729300581D9E /* SceneDelegate.swift */,
+				033A5B1B241E729300581D9E /* ViewController.swift */,
+				033A5B1D241E729300581D9E /* Main.storyboard */,
+				033A5B20241E729500581D9E /* Assets.xcassets */,
+				033A5B22241E729500581D9E /* LaunchScreen.storyboard */,
+			);
+			path = "Support Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
